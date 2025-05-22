@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace 'com.example.readsms' // Replace with your actual package name
+    namespace 'com.ayush783.readsms' // ✅ Use the original package name here
     compileSdkVersion 31
 
     compileOptions {
